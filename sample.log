@@ -1,0 +1,10 @@
+plain line without colors
+[32mINFO[0m  2026-08-21 07:41:02 Server started on port [1m8080[0m
+[33mWARN[0m  2026-08-21 07:41:05 [33mCache miss for key "user:42"[0m
+[31mERROR[0m 2026-08-21 07:41:09 [1;31mConnection refused[0m to [4mdb.example.com:5432[0m
+[90mDEBUG[0m 2026-08-21 07:41:10 retrying in 5s (attempt [36m2[0m/[36m5[0m)
+[7m inverse header [0m and [9mstrikethrough[0m and [3mitalic[0m
+256-color: [38;5;196mred196[0m [38;5;46mgreen46[0m [38;5;226myellow226[0m [48;5;18mbg18[0m
+truecolor: [38;2;255;105;180mhot pink[0m [48;2;0;60;0;38;2;144;238;144mgreen on dark green[0m
+bright: [91mbright red[0m [92mbright green[0m [94mbright blue[0m
+cursor codes are stripped: [2Kdone[1A
