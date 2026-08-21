@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Log Colorizer",
+  "version": "1.0.0",
+  "description": "Colorizes ANSI escape codes in plain text .log and .txt files on toolbar click.",
+  "permissions": ["activeTab", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Colorize ANSI log (click again to restore)",
+    "default_icon": {
+      "16": "icons/icon-16.png",
+      "32": "icons/icon-32.png",
+      "48": "icons/icon-48.png",
+      "128": "icons/icon-128.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon-16.png",
+    "32": "icons/icon-32.png",
+    "48": "icons/icon-48.png",
+    "128": "icons/icon-128.png"
+  }
+}
