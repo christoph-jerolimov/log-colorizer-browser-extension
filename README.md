@@ -65,9 +65,12 @@ manifest.
 
 ## Try it
 
-Open the bundled [`sample.log`](sample.log) in the browser (drag & drop it
-into a tab, or serve it over HTTP) and click the Log Colorizer toolbar
-button. Click again to get the original raw text back.
+Open the bundled
+[`sample.log`](https://raw.githubusercontent.com/christoph-jerolimov/log-colorizer-browser-extension/main/sample.log)
+(raw GitHub link, rendered as plain text by the browser) and click the
+Log Colorizer toolbar button. Click again to get the original raw text
+back. Alternatively drag & drop the local [`sample.log`](sample.log)
+into a tab or serve it over HTTP.
 
 ## How it works
 
