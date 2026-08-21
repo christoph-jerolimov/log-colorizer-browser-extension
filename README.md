@@ -1,4 +1,4 @@
-# Log Colorizer
+# ![Log Colorizer icon](icons/icon-32.png) Log Colorizer
 
 A browser extension for **Chrome** and **Firefox** that colorizes ANSI escape
 codes in plain text log files.
